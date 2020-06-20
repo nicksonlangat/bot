@@ -1,5 +1,5 @@
 #from twilio.twiml.messaging_response import MessagingResponse
- from django.views.decorators.csrf import csrf_exempt
+from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 # import requests
 import datetime
